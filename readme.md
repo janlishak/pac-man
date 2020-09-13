@@ -1,7 +1,7 @@
-## 🐍python remake of the old-school arcade 🕹️pac-man
-![Recordit GIF](http://g.recordit.co/efeLXnbH43.gif)
+## 🐍python remake of the old pc game classic “mines” 💣
+![Recordit GIF](http://g.recordit.co/9Ym6KfVaGo.gif)
 ## Story
-It began as a school project with one of my colleagues, but we invested a little more time in it as we have expected. At first, we only wanted the basic functionalities of the game, but later we have implemented quite complex algorithms for controlling the enemies in the game. In the end we were able to create quite fascinating game that resembles the game style of the original game and gives the player a satisfying experience playing it. We hope you try it out and enjoy as well. ☺️
+One day I decided to do as little code challenge and recreate one of my favorite games of my childhood. In this simple game the player’s goal is to find all the mines only by knowing how many surrounding mines are on the tiles which were already clicked on. The player must be carful on which tiles to stamp because if there is a mine it will explode, and the game is over. 
 ## Installation
 * game was tested with version 3.8 of python, but any python 3 version should work
 * if your installation does not include graphical library tkinter you need to install it to run the game
